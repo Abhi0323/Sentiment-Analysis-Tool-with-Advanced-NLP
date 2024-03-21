@@ -4,7 +4,7 @@
 
 Give this a try for yourself on my Hugging Face space:  https://huggingface.co/spaces/Abhishek0323/Sentiment_Analysis
 
-**Sentiment Analysis: Unveiling Emotions with NLP**
+**Sentiment Analysis**
 
 This Sentiment Analysis project showcases the application of NLP (Natural Language Processing) to decode emotions from text. By employing the advanced CardiffNLP's RoBERTa model, it offers precise sentiment detection, making it a valuable tool for professionals interested in exploring textual data's emotional nuances.
 
